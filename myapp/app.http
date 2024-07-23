@@ -1,0 +1,10 @@
+GET http://localhost:3000/
+
+
+###
+Send Request
+GET http://localhost:3000/date
+
+###
+send Request
+GET http://localhost:3000/page
